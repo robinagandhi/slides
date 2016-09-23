@@ -1,6 +1,6 @@
 class: center, middle
 # PhD in IT
-A Proposal for Concentations
+A Proposal for Concentrations
 
 ---
 class: middle

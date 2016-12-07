@@ -8,7 +8,7 @@ class: middle
 
 ## Good students seek challenges and opportunities
 .top-right[
-![cats](http://gph.is/XJ9Uam)
+![cats](http://68.media.tumblr.com/tumblr_m5ezckIAL81r2hf4ro1_500.gif)
 ]
 
 --

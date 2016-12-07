@@ -8,7 +8,7 @@ class: middle
 
 ## Good students seek challenges and opportunities
 .top-right[
-![cats](http://proteas.microlab.ntua.gr/ksiop/phd_funny/research_in_progress__funny/How%20good%20my%20supervisor%20is%20at%20ignoring%20my%20problems.gif)
+![cats](http://gph.is/XJ9Uam)
 ]
 
 --

@@ -27,6 +27,9 @@ git checkout gh-pages
 
 ### Slides
 * [PhD in IT with Concentrations](https://robinagandhi.github.io/slides/phd/phd.html)
+* [Assurance Cases](https://robinagandhi.github.io/slides/case/assurance-case.html)
+* [Assurance Cases Exercise](https://robinagandhi.github.io/slides/case/assurance-case-exercise.html)
+* [Coding for Software Security Engineering](https://robinagandhi.github.io/slides/case/code-for-software-se.html)
 
 
 ## License

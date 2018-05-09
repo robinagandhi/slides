@@ -170,6 +170,28 @@ class: middle
 ]
 
 ---
+
+.left-column[
+## .red[Obstacles - F2F]
+### Student Project Presentations
+#### In-class lightning talks
+#### Q&A and discussions
+
+#### Hard to keep presentations on time.
+
+]
+
+--
+.right-column[
+## .green[Opportunities - Online]
+### ilos guest recorder
+#### Students try to stay on time
+#### [Assignment for student review](https://unomaha.instructure.com/courses/8007/pages/semester-project-presentations)
+#### Thoughtful reviews and reflections
+
+]
+
+---
 class: middle, center
 # Questions?
 #  

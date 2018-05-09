@@ -163,9 +163,9 @@ class: middle
 .right-column[
 ## .green[Opportunities - Online]
 ### Canvas Grading Rubric
-#### Organize Assignments in Groups (https://unomaha.instructure.com/courses/8007/assignments)
+#### [Organize Assignments in Groups](https://unomaha.instructure.com/courses/8007/assignments)
 
-### Instant student grade feedback (https://unomaha.instructure.com/courses/8007/gradebook)
+### [Instant student grade feedback](https://unomaha.instructure.com/courses/8007/gradebook)
 
 ]
 
